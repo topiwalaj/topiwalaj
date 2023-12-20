@@ -4,14 +4,14 @@
 
 I am a passionate Full Stack Web Developer who loves to create meaningful and engaging web applications. Welcome to my GitHub repository!
 
-I recently graduated from York University. During my studies, I had the opportunity to work on various projects, including:
+I recently graduated from York University. During my studies, I had the opportunity to work on various projects.
 
 ### Education & Projects
 
-- 🎓 Graduated from York University.
+- 🎓 Graduated from York University - Full Stack Web Developer Program
 - 🚀 Worked on two significant projects during my course:
    - Personal Project: Custom Tailoring Business.
-   - Capstone Project: Collaborated with a Team and Client. The project is about Event management.
+   - Capstone Project: Collaborated with a Team and Client to create an event management web application.
 - 💡 Enjoyed the experience and challenges while working on these projects.
 - 🌟 Always eager to learn new technologies, tools, and frameworks to enhance my skills.
 
