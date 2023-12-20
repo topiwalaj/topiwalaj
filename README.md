@@ -10,13 +10,13 @@ I recently graduated from York University. During my studies, I had the opportun
 
 - 🎓 Graduated from York University.
 - 🚀 Worked on two significant projects during my course:
-   - Personal Project: Custome Tailoring Business.
+   - Personal Project: Custom Tailoring Business.
    - Capstone Project: Collaborated with a Team and Client. The project is about Event management.
 - 💡 Enjoyed the experience and challenges while working on these projects.
 - 🌟 Always eager to learn new technologies, tools, and frameworks to enhance my skills.
 
 
-I am a Full Stack Web Developer recently graduated from York University. I worked on two projects in the course, Personal project and Capstone project with a Team and Client. I enjoyed working on the projects. Always ready to learn new technologies, tools and frameworks.
+<!-- I am a Full Stack Web Developer recently graduated from York University. I worked on two projects in the course, Personal project and Capstone project with a Team and Client. I enjoyed working on the projects. Always ready to learn new technologies, tools and frameworks.-->
 
 
 
