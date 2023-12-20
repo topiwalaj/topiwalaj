@@ -16,7 +16,9 @@ I recently graduated from York University. During my studies, I had the opportun
 - 🌟 Always eager to learn new technologies, tools, and frameworks to enhance my skills.
 
 
-<!-- I am a Full Stack Web Developer recently graduated from York University. I worked on two projects in the course, Personal project and Capstone project with a Team and Client. I enjoyed working on the projects. Always ready to learn new technologies, tools and frameworks.-->
+<!-- 
+I am a Full Stack Web Developer recently graduated from York University. I worked on two projects in the course, Personal project and Capstone project with a Team and Client. I enjoyed working on the projects. Always ready to learn new technologies, tools and frameworks.
+-->
 
 
 
