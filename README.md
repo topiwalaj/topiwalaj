@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there, I am Jigisha Topiwala 👋
 
+## About Me
+
+I am a Full Stack Web Developer recently graduated from York University. I worked on two projects in the course, Personal project and Capstone project with a group with real world experience.
+
+I enjoyed working on the projects. Always ready to learn new technologies, tools and frameworks.
+
+
+
+ 
 <!--
 **topiwalaj/topiwalaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
