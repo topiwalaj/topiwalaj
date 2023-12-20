@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Full Stack Web Developer recently graduated from York University. I worked on two projects in the course, Personal project and Capstone project with a group with real world experience.
+I am a Full Stack Web Developer recently graduated from York University. I worked on two projects in the course, Personal project and Capstone project with a Team and Client.
 
 I enjoyed working on the projects. Always ready to learn new technologies, tools and frameworks.
 
