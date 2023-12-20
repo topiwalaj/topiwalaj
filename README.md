@@ -1,10 +1,18 @@
-# Hi there, I am Jigisha Topiwala 👋
+# Hi there! 👋 I'm Jigisha Topiwala
 
 ## About Me
 
-I am a Full Stack Web Developer recently graduated from York University. I worked on two projects in the course, Personal project and Capstone project with a Team and Client.
+I am a passionate Full Stack Web Developer who loves to create meaningful and engaging web applications. Welcome to my GitHub repository!
 
-I enjoyed working on the projects. Always ready to learn new technologies, tools and frameworks.
+I recently graduated from York University.During my studies, I had the opportunity to work on various projects, including:
+
+### Education & Projects
+
+- 🎓 Graduated from York University.
+
+I am a Full Stack Web Developer recently graduated from York University. I worked on two projects in the course, Personal project and Capstone project with a Team and Client. I enjoyed working on the projects. Always ready to learn new technologies, tools and frameworks.
+
+
 
 
 
