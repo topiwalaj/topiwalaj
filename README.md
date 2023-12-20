@@ -17,6 +17,9 @@ I recently graduated from York University. During my studies, I had the opportun
 
 ## Skills
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,expressjs,figma,mysql,doker,supabase&theme=light)](https://skillicons.dev)
+
+
 
 
 <!-- 
