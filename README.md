@@ -6,6 +6,8 @@ I am a passionate Full Stack Web Developer who loves to create meaningful and en
 
 I recently graduated from York University. During my studies, I had the opportunity to work on various projects.
 
+I am currently working as a Freelancer.
+
 ### Education & Projects
 
 - 🎓 Graduated from York University - Full Stack Web Developer Program
