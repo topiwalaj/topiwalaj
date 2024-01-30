@@ -19,7 +19,7 @@ I am currently working as a Freelancer.
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,replit,vite,nodejs,expressjs,figma,mysql,docker,supabase,git,github,vscode,gcp,heroku&perline=6&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,replit,vite,nodejs,expressjs,figma,mysql,docker,supabase,git,github,vscode,gcp,heroku,netlify&perline=6&theme=light)](https://skillicons.dev)
 
 
 
