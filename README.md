@@ -6,7 +6,7 @@ I am a passionate Full Stack Web Developer who loves to create meaningful and en
 
 I recently graduated from York University. During my studies, I had the opportunity to work on various projects.
 
-I am currently working as a Freelancer.
+I am currently working as a Freelancer and a Shift Supervisor at Tim Hortons.
 
 ### Education & Projects
 
